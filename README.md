@@ -41,9 +41,9 @@ https://github.com/anindita-stats/fraud-detection-risk-scoring
 
 ## Currently Learning
 
-• Advanced SQL
-• PySpark
-• Building end-to-end machine learning projects
+• Advanced SQL and query optimization
+• PySpark for large-scale data processing
+• End-to-end machine learning deployment
 • Business Intelligence and dashboard development
 
 ---
@@ -54,5 +54,5 @@ https://github.com/anindita-stats/fraud-detection-risk-scoring
 
 💼 LinkedIn: https://www.linkedin.com/in/anindita-sarkar-1b56711a8
 
-Thanks for visiting my profile!
+Thanks for stopping by! Feel free to connect if you'd like to discuss data analytics, machine learning, or new opportunities.
 
