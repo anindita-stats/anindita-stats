@@ -2,28 +2,21 @@
 
 ## About Me
 
-I'm a Statistics postgraduate with experience in data analysis, statistical research, and machine learning. I enjoy working with data to solve practical business problems and turn raw information into meaningful insights.
+I'm a Statistics postgraduate with experience in data analysis, statistical research, and machine learning. Over the past few years, I've worked on projects involving data cleaning, exploratory data analysis, predictive modelling, dashboards, and business reporting using Python, SQL, R, Excel, Power BI, and Streamlit.
 
-Over the past few years, I've worked on projects involving exploratory data analysis, predictive modelling, dashboard development, and business reporting using Python, SQL, R, Excel, Power BI, and Streamlit.
-
-I'm currently looking for opportunities where I can continue learning while contributing to data-driven decision-making.
+I enjoy using data to understand business problems, identify patterns, and support better decision-making. I'm currently looking for opportunities where I can continue learning and contribute to data-driven teams.
 
 ---
 
 ## Skills
 
-- Python
-- SQL
-- R
-- Excel
-- Power BI
-- Tableau
-- Streamlit
-- Scikit-learn
-- XGBoost
-- Machine Learning
-- Statistics
-- Data Visualization
+Programming: Python, SQL, R
+
+Data Analysis: Excel, Statistics, Machine Learning
+
+Visualization: Power BI, Tableau, Streamlit
+
+Libraries: Pandas, NumPy, Scikit-learn, XGBoost
 
 ---
 
