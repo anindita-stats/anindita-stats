@@ -39,11 +39,12 @@ https://github.com/anindita-stats/fraud-detection-risk-scoring
 
 ---
 
-## Currently Working On
+## Currently Learning
 
-- Improving my machine learning portfolio
-- Building data analytics and business intelligence projects
-- Learning new tools and best practices in data science
+• Advanced SQL
+• PySpark
+• Building end-to-end machine learning projects
+• Business Intelligence and dashboard development
 
 ---
 
@@ -51,5 +52,5 @@ https://github.com/anindita-stats/fraud-detection-risk-scoring
 
 📧 aninditasarkarr18@gmail.com
 
-💼 LinkedIn:
-(Add your LinkedIn profile link here)
+💼 LinkedIn: https://www.linkedin.com/in/anindita-sarkar-1b56711a8
+
